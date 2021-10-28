@@ -21,6 +21,6 @@ describe('Password test',() =>{
         cy.contains('Send Password').click()
     });
     it('should validate email is sent', function () {
-        cy.get('.offset3 span6').contains('offset3 span6')
+        cy.get('.offset3 span6').contains('Your password will be sent to the following email: bolofbaba@gmail.com')
     });
 })

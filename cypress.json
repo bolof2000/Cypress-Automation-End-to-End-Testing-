@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://the-internet.herokuapp.com/",
+  "watchForFileChanges": false,
+  "viewportHeight": 1280,
+  "viewportWidth": 720,
+  "waitForAnimations": true,
+  "animationDistanceThreshold": 20,
+  "defaultCommandTimeout": 5000,
+  "execTimeout": 60000,
+  "pageLoadTimeout": 60000,
+  "requestTimeout": 15000,
+  "responseTimeout": 15000,
+  "video": false
+}
